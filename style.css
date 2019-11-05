@@ -1,0 +1,27 @@
+.visual{
+    margin: auto;
+    width: max-content;
+    margin-top: 15vw;
+}
+
+.st{
+    padding: 20px;
+}
+
+.talk{
+    border-radius: 50px;
+}
+
+.content{
+    text-align: center;
+    margin-top: 20px;
+}
+.contents{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.content2{
+    text-align: center;
+    margin-top: 20px;
+}
